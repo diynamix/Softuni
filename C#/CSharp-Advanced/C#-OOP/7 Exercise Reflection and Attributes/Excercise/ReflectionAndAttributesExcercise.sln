@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{846AB097-1F01-463F-A8A2-47D8C0FFBD14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationAttributes", "ValidationAttributes\ValidationAttributes.csproj", "{FB26FACA-7763-4ABF-AC58-2B5A3AE683EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{846AB097-1F01-463F-A8A2-47D8C0FFBD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846AB097-1F01-463F-A8A2-47D8C0FFBD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846AB097-1F01-463F-A8A2-47D8C0FFBD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846AB097-1F01-463F-A8A2-47D8C0FFBD14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB26FACA-7763-4ABF-AC58-2B5A3AE683EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB26FACA-7763-4ABF-AC58-2B5A3AE683EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB26FACA-7763-4ABF-AC58-2B5A3AE683EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB26FACA-7763-4ABF-AC58-2B5A3AE683EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {336ABC00-9C5F-4024-B691-1C5784FC0C15}
+	EndGlobalSection
+EndGlobal

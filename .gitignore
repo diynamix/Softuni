@@ -1,0 +1,20 @@
+# Files
+*.vs
+*.zip
+*.pptx
+*.zip
+*.ods
+*.odt
+*.doc
+*.docx
+
+# Folders
+bin
+obj
+node_modules
+tests
+Demo
+Resources
+Additional
+Programming-Basics
+Programming-Fundamentals
