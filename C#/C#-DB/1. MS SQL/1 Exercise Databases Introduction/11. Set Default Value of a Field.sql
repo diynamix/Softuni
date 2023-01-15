@@ -1,2 +1,2 @@
 ALTER TABLE [Users]
-ADD CONSTRAINT Default_LastLoginTime DEFAULT GETDATE() FOR [LastLoginTime]
+ADD CONSTRAINT DF_LastLoginTime DEFAULT GETDATE() FOR [LastLoginTime]
