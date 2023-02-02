@@ -1,12 +1,12 @@
-SELECT
-		DepartmentID,
-		MAX(Salary) AS ThirdHighestSalary
-	FROM (
-		SELECT 
-				DepartmentID,
-				Salary,
-				DENSE_RANK() OVER (PARTITION BY DepartmentID ORDER BY Salary DESC) AS [Rank]
+SELECT TOP 10
+		FirstName,
+		LastName,
+		e.DepartmentID
+	FROM Employees e
+		JOIN (
+			SELECT DepartmentID, AVG(Salary) AS AvgSalary
 			FROM Employees
-	) AS SalaryRank
-	WHERE [Rank] = 3
-	GROUP BY DepartmentID
+			GROUP BY DepartmentID
+		) AS AvgTable
+			ON e.DepartmentID = AvgTable.DepartmentID
+	WHERE Salary > AvgTable.AvgSalary
