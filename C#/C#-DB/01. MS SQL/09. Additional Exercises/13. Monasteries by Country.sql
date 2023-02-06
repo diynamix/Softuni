@@ -25,8 +25,8 @@ INSERT INTO Monasteries([Name], CountryCode)
 ('Taktsang Palphug Monastery', 'BT'),
 ('Sümela Monastery', 'TR')
 
-ALTER TABLE Countries
-	ADD IsDeleted BIT NOT NULL DEFAULT 0
+--ALTER TABLE Countries
+--	ADD IsDeleted BIT NOT NULL DEFAULT 0
 
 UPDATE Countries
 	SET IsDeleted = 1
