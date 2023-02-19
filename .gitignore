@@ -1,12 +1,13 @@
 # Files
-*.vs
-*.zip
-*.pptx
-*.zip
-*.ods
-*.odt
 *.doc
 *.docx
+*.ods
+*.odt
+*.pptx
+*.sln
+*.vs
+*.zip
+*.zip
 
 # Folders
 bin
