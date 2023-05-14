@@ -3,6 +3,7 @@
 *.docx
 *.ods
 *.odt
+*.pdf
 *.pptx
 *.sln
 *.vs

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-16"?>
+<sales>
+  <sale>
+    <car make="Opel" model="Insignia" traveled-distance="168539389" />
+    <discount>30.00</discount>
+    <customer-name>Zada Attwood</customer-name>
+    <price>1802.41</price>
+    <price-with-discount>1261.680000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="BMW" model="F04" traveled-distance="418839575" />
+    <discount>0.00</discount>
+    <customer-name>Marcelle Griego</customer-name>
+    <price>392.32</price>
+    <price-with-discount>392.320000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="BMW" model="F20" traveled-distance="487897422" />
+    <discount>10.00</discount>
+    <customer-name>Emmitt Benally</customer-name>
+    <price>1204.21</price>
+    <price-with-discount>1083.780000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="Opel" model="Omega" traveled-distance="111313670" />
+    <discount>50.00</discount>
+    <customer-name>Garret Capron</customer-name>
+    <price>779.72</price>
+    <price-with-discount>389.860000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="BMW" model="F25" traveled-distance="476132712" />
+    <discount>30.00</discount>
+    <customer-name>Johnette Derryberry</customer-name>
+    <price>524.94</price>
+    <price-with-discount>367.450000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="BMW" model="X6 M" traveled-distance="183346013" />
+    <discount>0.00</discount>
+    <customer-name>Cinthia Lasala</customer-name>
+    <price>2444.31</price>
+    <price-with-discount>2444.310000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="BMW" model="M5 F10" traveled-distance="140799461" />
+    <discount>15.00</discount>
+    <customer-name>Natalie Poli</customer-name>
+    <price>3608.24</price>
+    <price-with-discount>3067.000000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="Opel" model="Omega" traveled-distance="109910837" />
+    <discount>20.00</discount>
+    <customer-name>Daniele Zarate</customer-name>
+    <price>330.97</price>
+    <price-with-discount>264.770000</price-with-discount>
+  </sale>
+  <sale>
+    <car make="Opel" model="Astra" traveled-distance="349837452" />
+    <discount>15.00</discount>
+    <customer-name>Cinthia Lasala</customer-name>
+    <price>3327.10</price>
+    <price-with-discount>2828.030000</price-with-discount>
+  </sale>
+</sales>

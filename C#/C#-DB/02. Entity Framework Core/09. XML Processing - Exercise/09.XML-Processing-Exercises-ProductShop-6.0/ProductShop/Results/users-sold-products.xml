@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Users>
+  <User>
+    <firstName>Gloria</firstName>
+    <lastName>Alexander</lastName>
+    <soldProducts>
+      <name>Metoprolol Tartrate</name>
+      <price>1405.74</price>
+    </soldProducts>
+  </User>
+  <User>
+    <firstName>Fred</firstName>
+    <lastName>Allen</lastName>
+    <soldProducts>
+      <name>IOPE SUPER VITAL</name>
+      <price>824.68</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Triamterene and Hydrochlorothiazide</name>
+      <price>1416.59</price>
+    </soldProducts>
+  </User>
+  <User>
+    <lastName>Baker</lastName>
+    <soldProducts>
+      <name>Prednisone</name>
+      <price>550.72</price>
+    </soldProducts>
+    <soldProducts>
+      <name>equaline</name>
+      <price>520.45</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Acetic Acid</name>
+      <price>1060.43</price>
+    </soldProducts>
+  </User>
+  <User>
+    <firstName>Fred</firstName>
+    <lastName>Barnes</lastName>
+    <soldProducts>
+      <name>Buprenorphine hydrochloride and naloxone hydrochloride dihydrate</name>
+      <price>293.33</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Protonix</name>
+      <price>466.70</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Ranitidine</name>
+      <price>926.64</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Air</name>
+      <price>331.53</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Hydralazine Hydrochloride</name>
+      <price>1309.72</price>
+    </soldProducts>
+  </User>
+  <User>
+    <lastName>Bennett</lastName>
+    <soldProducts>
+      <name>Clearskin</name>
+      <price>968.59</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Pleo Ginkgo</name>
+      <price>613.65</price>
+    </soldProducts>
+  </User>
+</Users>
