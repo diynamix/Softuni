@@ -5,7 +5,7 @@
 *.odt
 *.pdf
 *.pptx
-*.sln
+# *.sln
 *.vs
 *.zip
 *.zip
